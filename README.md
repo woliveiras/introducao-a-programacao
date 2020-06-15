@@ -2,7 +2,9 @@
 
 > Curso de Introdução a Programação online ao vivo no YouTube
 
-Se inscreva no canal: [O Universo da Programação](https://www.youtube.com/c/ouniversodaprogramacao)
+Se inscreva no canal: [O Universo da Programação](https://www.youtube.com/c/ouniversodaprogramacao).
+
+Cadastre-se para receber o link das aulas e/ou vagas em programação: [cadastro - UdP - Iniciantes](https://forms.gle/ENqEsrNabQe7H7te9)
 
 ## Grade
 
