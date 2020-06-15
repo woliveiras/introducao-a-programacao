@@ -2,6 +2,8 @@
 
 > Curso de Introdução a Programação online ao vivo no YouTube
 
+Se inscreva no canal: [O Universo da Programação](https://www.youtube.com/c/ouniversodaprogramacao)
+
 ## Grade
 
 - Como funciona um programa de computador
