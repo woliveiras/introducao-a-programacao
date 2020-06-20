@@ -40,6 +40,3 @@ Cadastre-se para receber indicação em vagas de programação: [cadastro - UdP 
   - lógicos
 - Laços de repetição
 - Trabalhando com funções
-- Praticando
-  - criando um jogo para o terminal
-  - exercícios de programação
