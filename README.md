@@ -14,6 +14,10 @@ E compartilhe o canal com outras pessoas que desejam aprender programação DO Z
 
 Cadastre-se para receber indicação em vagas de programação: [cadastro - UdP - Iniciantes](https://forms.gle/ENqEsrNabQe7H7te9).
 
+## Como contribuir
+
+Para me apoiar e garantir a continuação do canal, assine o patrocínio através do PicPay: [picpay.me/ouniversodaprogramacao](https://picpay.me/ouniversodaprogramacao)
+
 ## Grade
 
 - Como funciona um programa de computador
