@@ -14,6 +14,12 @@ Cadastre-se para receber indicação em vagas de programação: [cadastro - UdP 
 
 Para me apoiar e garantir a continuação do canal, assine o patrocínio através do PicPay: [picpay.me/ouniversodaprogramacao](https://picpay.me/ouniversodaprogramacao)
 
+## Antes de qualquer coisa
+
+Talvez seja legal você aprender Git e GitHub antes do curso de programação, pois vamos utilizar essas ferramentas para guardar nosso código.
+
+Confere aqui: [workshop gratuito de Git e GitHub](https://youtu.be/Gzx45zj69h4)
+
 ## Grade
 
 - Como funciona um programa de computador
