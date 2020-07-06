@@ -22,19 +22,30 @@ Confere aqui: [workshop gratuito de Git e GitHub](https://youtu.be/Gzx45zj69h4)
 
 ## Grade
 
+### Aula 1
+
 - Como funciona um programa de computador
+  - o que é um programa de computador
   - arquitetura de um computador
   - plataformas/sistemas operacionais
-- Nosso primeiro programa
+- Como um programa é criado
+  - IDEs, editores de texto, plataformas/sistemas operacionais
+  - linguagens de programação
+  
+#### Exercícios
+
+- Conhecer o Git
+- Criar uma conta no GitHub
+- Escrever o seu perfil e compartilhar nos comentários do vídeo 1
+
+---
+
 - Ambiente de desenvolvimento
   - conhecendo o ambiente de desenvolvimento
   - configurando nosso ambiente de desenvolvimento
-- Introdução ao Terminal
-- Introdução a versionamento de código
-  - Git :heart:
+- Conhecendo o Terminal/a linha de comando
+- Revisão sobre versionamento de código
 - Trabalhando com remotos usando o GitHub
-  - criando sua conta no GitHub
-  - criando um repositório para o curso
 - Paradigmas de programação
 - Valores
   - declaração de identificadores
